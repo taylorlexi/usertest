@@ -1,0 +1,25 @@
+header {
+	background:url("http://www.blackfootpool.com/wp-content/uploads/2016/04/olympics-swimming.jpg");
+}
+body {
+	background:lightblue;
+}
+h2 {
+	color:black;
+	font-size:40px;
+	font-family:'Anton';
+	text-align:center;
+	background:lightblue;
+}
+
+p {
+	color:black;
+	font-size:60px;
+	font-family:'Anton';
+	text-align:center;
+	background:lightblue;
+}
+input {
+	font-size:60px;
+	font-family:'Anton';
+}
