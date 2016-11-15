@@ -1,3 +1,10 @@
+
+img {
+	width:350px;
+	height:350px;
+	border:15px white;
+	border-radius:20px;
+}
 body {
 	background:lightblue;
 }
