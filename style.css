@@ -1,6 +1,12 @@
 header {
 	background:url("http://www.blackfootpool.com/wp-content/uploads/2016/04/olympics-swimming.jpg");
 }
+img {
+	width:350px;
+	height:350px;
+	border:15px white;
+	border-radius:20px;
+}
 body {
 	background:lightblue;
 }
